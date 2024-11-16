@@ -13,3 +13,14 @@ La Red WAN, llamada red de área amplia o mundial, se caracteriza por pasar la d
 4: a-IP: 192.168.7.103
 b-Rango: C.
 ......................
+6-Conozco tres tipos de Nubes que se encuentran organizados por niveles, sus nombres son: Iaas, Paas, Saas. La primera nube, Iaas, es donde se desenvuelven los administradores informaticos. En ella puedes, a partir del formato virtual, controlar su sistema operativo, el almacenamiento y las aplicaciones pero no su infraestructura.
+En el siguiente nivel, la nube PaaS, trabajan los desarrolladores de software. Es una plataforma casi completa, donde se preocupan más que nada por los códigos. No tiene control tampoco sobre la infraestructura.
+El ultimo, la nube SaaS, es la nube de aplicación, es el nivel mas completo y desarollado.
+...........................
+7-Los servicio que se pueden utilizar en Iaas son: redes, almacenamiento, firewall.
+Los servicios de PaaS son: bases de datos, herramientas.
+Y por ultimo, los servicios que ofrece SaaS son completos, son el producto completo.
+...........................
+8: b- Un repositorio es un lugar para guardar, organizar, almacenar y compartir datos. Donde puedes modificar y guardar la informacion.
+...........................
+GitBash utiliza tres áreas de trabajo las cuales son: el área de trabajo, área de preparación y el trabajo final. En la primera es donde estan los datos almacenados. La segunda etapa te permite modificar y cambiar la informacion. Y la ultima etapa es la final, donde el trabajo ya se puede cargar y subir con sus modificaciones.
