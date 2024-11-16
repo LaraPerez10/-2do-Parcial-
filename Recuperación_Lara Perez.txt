@@ -1,0 +1,15 @@
+1: a-Capa de Aplicación: en ella interactuan los protocolos HTTP y SMTP.
+b-Capa de Transporte: en esta otra capa los protocolos que interactúan son TCP y RCP
+.........................
+2: 8 bit-24: pertenece a la clase A de IP.
+16 bit-16 bit: pertenece a la clase B de IP.
+24 bit-8 bit: pertenece a la clase C de IP.
+..........................
+3: Conozco tres tipos de redes las cuales son: LAN, MAN y WAN.
+La Red LAN es una red de área local, lo que la caracteriza es que abarca una distancia igual o menor a 100 mts. Se distribuye en un radio cercano como podria ser dentro de un mismo lugar o edificio.
+La Red MAN es una red de área metropolitana y su caracteística es que abarca el radio de 1000 mts. Dandole asi un poco mas de espacio entre lugares conectados.
+La Red WAN, llamada red de área amplia o mundial, se caracteriza por pasar la distancia de los 1000 mts. Esta red se puede proporcionar desde cualquier parte del mundo, conectandose desde una distancia mayor que las anteriores.
+............................
+4: a-IP: 192.168.7.103
+b-Rango: C.
+......................
